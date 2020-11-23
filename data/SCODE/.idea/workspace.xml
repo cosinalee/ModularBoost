@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ed5ede8-7caa-404e-9733-1f9f20690607" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Curated/GSD-1/Expression.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curated/GSD-1/GoldStandard.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curated/GSD-1/Goldmodule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curated/GSD-50/Expression.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curated/GSD-50/GoldStandard.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curated/GSD-50/Goldmodule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curated/GSD-70/Expression.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curated/GSD-70/GoldStandard.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curated/GSD-70/Goldmodule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/E.coli_module/Expression.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/E.coli_module/Goldmodule_interconnected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/E.coli_module/Goldmodule_minimal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/E.coli_module/Goldmodule_strict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/E.coli_module/Regulators.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/E.coli_network/Expression.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/E.coli_network/GoldStandard.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/E.coli_network/Ids.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/E.coli_network/TF.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_module/Expression.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_module/Goldmodule_macisaac_interconnected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_module/Goldmodule_macisaac_minimal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_module/Goldmodule_macisaac_strict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_module/Goldmodule_sisima_interconnected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_module/Goldmodule_sisima_minimal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_module/Goldmodule_sisima_strict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_module/Regulators.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_network/Expression.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_network/GoldStandard.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_network/Ids.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DREAM5/Yeast_network/TF.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DE/Expression.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DE/GoldStandard.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DE/Goldmodule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DE/TF.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MEF/Expression.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MEF/GoldStandard.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MEF/Goldmodule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MEF/TF.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrE/Expression.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrE/GoldStandard.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrE/Goldmodule.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrE/TF.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="62690bcd-394b-4f2b-a244-15048bdfec21" />
+  <component name="ProjectId" id="1kfYE5iYT26twrhSEPzRtqlZKpj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ed5ede8-7caa-404e-9733-1f9f20690607" name="Default Changelist" comment="" />
+      <created>1606092999293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606092999293</updated>
+      <workItem from="1606092999882" duration="4000" />
+    </task>
+    <servers />
+  </component>
+</project>
