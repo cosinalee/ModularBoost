@@ -11,3 +11,6 @@ The code developed and tested in [Python 3.6](https://www.python.org/downloads/r
 [sklearn](https://scikit-learn.org/stable/), for decomposition algorithm;  
 [rpy2](https://pypi.org/project/rpy2/), for FDR functions;  
 [matplotlib](https://matplotlib.org/), for plotting;
+### Reference
+[1] Pratapa, Aditya, et al. [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data.](https://www.nature.com/articles/s41592-019-0690-6)[J] Nature methods 17.2 (2020): 147-154.  
+[2] Chan T E, Stumpf M P H, Babtie A C. [Gene regulatory network inference from single-cell data using multivariate information measures](https://www.sciencedirect.com/science/article/pii/S2405471217303861)[J]. Cell systems, 2017, 5(3): 251-267. e3.  
