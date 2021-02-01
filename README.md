@@ -7,7 +7,7 @@ We provide code for gene module detection, including ICA-FDR, ICA-FDR2, ICA-zsco
 The code developed and tested in [Python 3.6](https://www.python.org/downloads/release/python-360/) and requires:  
 [numpy](https://numpy.org/), for data structures;  
 [pandas](https://pandas.pydata.org/), for managing data;  
-[seaborn] (http://seaborn.pydata.org/), for heatmaps of S and A matrix;  
+[seaborn](http://seaborn.pydata.org/), for heatmaps of S and A matrix;  
 [sklearn](https://scikit-learn.org/stable/), for decomposition algorithm;  
 [rpy2](https://pypi.org/project/rpy2/), for FDR functions;  
 [matplotlib](https://matplotlib.org/), for plotting;
